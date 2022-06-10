@@ -1,0 +1,366 @@
+{
+    "Minimum amount of items to drop": 9,
+    "Maximum amount of items to drop": 15,
+    "Item list": [
+        {
+            "Item shortname": "smg.mp5",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "shotgun.spas12",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "pistol.python",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "sign.hanging.banner.large",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "sign.pole.banner.large",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "grenade.f1",
+            "Minimum amount": 5,
+            "Maximum amount": 5
+        },
+        {
+            "Item shortname": "blueberries",
+            "Minimum amount": 20,
+            "Maximum amount": 20
+        },
+        {
+            "Item shortname": "cctv.camera",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "targeting.computer",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "jackhammer",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "chainsaw",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "vending.machine",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "chainsaw",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "workbench2",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "workbench3",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "coffin.storage",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "largecandles",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "smallcandles",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "ceilinglight",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "knife.butcher",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "mailbox",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "flashlight.held",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "tool.binoculars",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "grenade.smoke",
+            "Minimum amount": 5,
+            "Maximum amount": 5
+        },
+        {
+            "Item shortname": "tactical.gloves",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "largemedkit",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "syringe.medical",
+            "Minimum amount": 4,
+            "Maximum amount": 4
+        },
+        {
+            "Item shortname": "weapon.mod.flashlight",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "weapon.mod.lasersight",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "weapon.mod.muzzleboost",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "weapon.mod.muzzlebrake",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "weapon.mod.simplesight",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "weapon.mod.silencer",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "weapon.mod.holosight",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "weapon.mod.8x.scope",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "weapon.mod.small.scope",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "tool.camera",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "keycard_green",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "keycard_red",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "keycard_blue",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "pistol.m92",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "rifle.lr300",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "rifle.l96",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "rifle.m39",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "barrelcostume",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "pookie.bear",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "riflebody",
+            "Minimum amount": 10,
+            "Maximum amount": 10
+        },
+        {
+            "Item shortname": "smgbody",
+            "Minimum amount": 10,
+            "Maximum amount": 10
+        },
+        {
+            "Item shortname": "wall.graveyard.fence",
+            "Minimum amount": 20,
+            "Maximum amount": 20
+        },
+        {
+            "Item shortname": "flare",
+            "Minimum amount": 5,
+            "Maximum amount": 5
+        },
+        {
+            "Item shortname": "samsite",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "ammo.rocket.sam",
+            "Minimum amount": 20,
+            "Maximum amount": 20
+        },
+        {
+            "Item shortname": "ammo.rifle",
+            "Minimum amount": 200,
+            "Maximum amount": 200
+        },
+        {
+            "Item shortname": "ammo.rifle.hv",
+            "Minimum amount": 200,
+            "Maximum amount": 200
+        },
+        {
+            "Item shortname": "ammo.pistol",
+            "Minimum amount": 200,
+            "Maximum amount": 200
+        },
+        {
+            "Item shortname": "ammo.shotgun",
+            "Minimum amount": 50,
+            "Maximum amount": 50
+        },
+        {
+            "Item shortname": "ammo.pistol.hv",
+            "Minimum amount": 200,
+            "Maximum amount": 200
+        },
+        {
+            "Item shortname": "electric.generator.small",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "clatter.helmet",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "scarecrow",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "scarecrowhead",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "cakefiveyear",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "partyhat",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "chineselantern",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "dragondoorknocker",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "hat.dragonmask",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "scientistsuit_heavy",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "pitchfork",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "multiplegrenadelauncher",
+            "Minimum amount": 1,
+            "Maximum amount": 1
+        },
+        {
+            "Item shortname": "ammo.grenadelauncher.buckshot",
+            "Minimum amount": 50,
+            "Maximum amount": 50
+        },
+        {
+            "Item shortname": "ammo.grenadelauncher.he",
+            "Minimum amount": 10,
+            "Maximum amount": 10
+        },
+        {
+            "Item shortname": "ammo.grenadelauncher.smoke",
+            "Minimum amount": 25,
+            "Maximum amount": 25
+        }
+    ]
+}
